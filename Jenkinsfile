@@ -1,1 +1,3 @@
-test
+node{
+  greet "vijayan"
+}
