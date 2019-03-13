@@ -1,3 +1,3 @@
 node{
-  greet "good"
+  greet "api-validator-rc.json"
 }
