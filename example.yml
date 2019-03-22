@@ -1,0 +1,12 @@
+--- 
+basePath: /
+definitions: 
+  AccountReference: 
+    description: "Details of product"
+    properties: 
+	 summary: "Get validdetails"
+      tags: 
+        - data-end-point
+swagger: "2.0"
+tags: 
+  - 
