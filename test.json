@@ -1,3 +1,16 @@
 {
-  "basePath": "/api" 
+
+    "swagger" : 2.0,
+ 
+    "host" : "petstore.swagger.io",
+    "basePath" : "/v2",
+   
+    "schemes" : [ "https", "http" ],
+  
+   
+    "externalDocs" : {
+      "description" : "Find out more about Swagger",
+      "url" : "http://swagger.io"
+    }
+
 }
