@@ -1,4 +1,4 @@
 {
   "apiDefinitionFilePath" : "example.yml",
-  "apiDefinitionURL": "http://localhost:9090/v2/api-docs"
+  "apiDefinitionURL": ""
 }
