@@ -1,4 +1,5 @@
 {
   "apiDefinitionFilePath" : "test.json",
-  "apiDefinitionURL": ""
+  "apiDefinitionURL": "",
+  "apiName": "TestApi"
 }
