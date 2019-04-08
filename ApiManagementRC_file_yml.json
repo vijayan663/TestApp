@@ -1,5 +1,4 @@
 {
   "apiDefinitionFilePath" : "example.yml",
-  "apiDefinitionURL": "",
-  "apiName": "TestApi"
+  "apiDefinitionURL": ""
 }
